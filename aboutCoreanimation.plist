@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>www.baidu.com</string>
+					<string>https://app.allmatch.com.cn:9003/ios/Client.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
